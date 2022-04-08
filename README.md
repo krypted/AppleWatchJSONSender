@@ -8,3 +8,5 @@ If using an iPhone or iPad as the build target then just make sure the Watch app
 
 # What's next?
 Working on a branch to do persistent storage of the json documents on the watch that were sent from the app. No promises.
+
+There's also no concept of type safety. So by design the app can send a string of "Hello World" or some yaml instead. Might add that.
