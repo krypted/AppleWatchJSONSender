@@ -3,7 +3,7 @@ Sends json from a text input field to an AppleWatch. Actually, also sends other 
 
 <p><a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png" align="left" height="600" width="480" ></a></p>
 
-
+<p><a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/Communication-Demo.gif" height="600" width="480" ></a></p>
 
 
 # Notes on using the watch in testing and simulation environments
