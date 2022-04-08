@@ -19,9 +19,9 @@ If using an iPhone or iPad as the build target then just make sure the Watch app
 
 
 
-
+<br>
 # What's next?
-
+<br>
 
 Working on a branch to do persistent storage of the json documents on the watch that were sent from the app. No promises.
 
