@@ -7,7 +7,7 @@ Sends json from a text input field to an AppleWatch. Actually, also sends other 
 
 
 ## Notes on using the watch in testing and simulation environments
-Don't forget to pair the watch simulator with the device being run. If you don't see the app...
+Don't forget to pair the watch simulator with the device being run. If you don't see the app...<br/>
 
 <a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/Nowatch.png" align="left" height="600" width="480" ></a>
 
@@ -19,9 +19,8 @@ If using an iPhone or iPad as the build target then just make sure the Watch app
 
 
 
-<br>
-# What's next?
-<br>
+
+# What's next?<br/>
 
 Working on a branch to do persistent storage of the json documents on the watch that were sent from the app. No promises.
 
