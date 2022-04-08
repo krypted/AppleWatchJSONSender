@@ -1,8 +1,15 @@
 # AppleWatchJSONSender
 Sends json from a text input field to an AppleWatch. Actually, also sends other arbitrary strings to the watch from a text input. Might add an option to show old comms. 
 
+![alt text](https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png?raw=true)
+
+
 # Notes on using the watch in testing and simulation environments
-Don't forget to pair the watch simulator with the device being run. I usually start the iPhone simulator first and then in Xcode go to Windows -> Devices and Sumulators. From there, if I click on the iPhone I just started I can use the plus sign to pair a watch interface with it. I'll call it something with the name of the app I'm testing. Then I'll quit Xcode and the simulator. Seems better that way, even though it's not absolutely necessary. Then fire up the project, run the iPhone then under build targets select the watch extension and when it opens the app and watch apps should be able to communicate. 
+Don't forget to pair the watch simulator with the device being run. If you don't see the app...
+
+![alt text](https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/Nowatch.png?raw=true)
+
+I usually start the iPhone simulator first and then in Xcode go to Windows -> Devices and Sumulators. From there, if I click on the iPhone I just started I can use the plus sign to pair a watch interface with it. I'll call it something with the name of the app I'm testing. Then I'll quit Xcode and the simulator. Seems better that way, even though it's not absolutely necessary. Then fire up the project, run the iPhone then under build targets select the watch extension and when it opens the app and watch apps should be able to communicate. 
 
 If using an iPhone or iPad as the build target then just make sure the Watch app opens and shows the device. The extension should do the rest. If using a Mac, it's probably not gonna' work. Note that there's no Watch app in the /Applications directory on a Mac. At that point, APNs comms are gonna' be the way to go, which this project doesn't cover (yet at least).
 
