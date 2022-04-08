@@ -1,7 +1,7 @@
 # AppleWatchJSONSender
 Sends json from a text input field to an AppleWatch. Actually, also sends other arbitrary strings to the watch from a text input. Might add an option to show old comms. 
 
-![alt text](https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png=250x250?raw=true)
+![alt text](https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png=250x250)
 
 
 # Notes on using the watch in testing and simulation environments
