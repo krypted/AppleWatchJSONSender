@@ -1,10 +1,11 @@
 # AppleWatchJSONSender
 Sends json from a text input field to an AppleWatch. Actually, also sends other arbitrary strings to the watch from a text input. Might add an option to show old comms. 
 
-<a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png" align="left" height="600" width="480" ></a>
+<p><a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png" align="left" height="600" width="480" ></a></p>
 
-<br>
-<br>
+
+
+
 # Notes on using the watch in testing and simulation environments
 Don't forget to pair the watch simulator with the device being run. If you don't see the app...
 
