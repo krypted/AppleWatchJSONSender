@@ -1,5 +1,5 @@
 # AppleWatchJSONSender
-Sends json from a text input field to an AppleWatch. Actually, also sends other arbitrary strings to the watch from a text input. Might add an option to show old comms. 
+Sends json from a text input field to an AppleWatch. Actually, also sends other arbitrary strings to the watch from a text input. Might add an option to show old comms. Also added a Find my IPAddress options, which just calls ip.jsontest.com. This is just to show how a watch app can communicate with a public endpoint and decode the json response. The "Messages in Queue" is meant to provide persistent storage.
 
 <p><a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/Communication-Demo.gif" height="600" width="420" ></a></p>
 
