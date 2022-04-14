@@ -25,4 +25,4 @@ Working on a branch to do persistent storage of the json documents on the watch 
 
 There's also no concept of type safety. So by design the app can send a string of "Hello World" or some yaml instead. Might add that.
 
-<p><a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/DemoScreen.png" align="left" height="600" width="480" ></a></p>
+<p><a href="url"><img src="https://github.com/krypted/AppleWatchJSONSender/blob/main/Images/demoscreen.png" align="left" height="600" width="480" ></a></p>
